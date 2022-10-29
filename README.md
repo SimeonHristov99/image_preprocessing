@@ -1,4 +1,4 @@
-# Image Processing and Enhancement
+# Image Preprocessing and Enhancement
 
 Holds exercises done in the corresponding class during my Master's degree in "Artificial Intelligence". The main goal of the class was to introduce techniques for image preprocessing using `opencv` in `Python3`.
 
